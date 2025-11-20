@@ -172,6 +172,23 @@ footer {
 
 .footer-col i { color: var(--secondary-color); margin-right: 10px; }
 
+.banner-web-btn {
+    width: 100%;
+    background: #dfe6ee; /* azul gris suave */
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 1px solid #c3ccd6;
+}
+
+.banner-web-btn a {
+    color: #2a3b4d; /* azul profesional oscuro */
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
 copyright {
     border-top: 1px solid #333;
     padding-top: 20px;
